@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-  "build": "vite build --base=/jshw9/",
+  "build": "vite build --base=/<jshw9>/",
     "preview": "vite preview"
   },
   "devDependencies": {
